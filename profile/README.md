@@ -1,4 +1,4 @@
-# bobsgamed
+# bob's game archive
 
 archive of <https://github.com/bobsgame>
 
