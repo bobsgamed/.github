@@ -1,8 +1,6 @@
 # bob's game archive
 
-archive of <https://github.com/bobsgame>
-
-this org is not managed by robert pelloni
+original archive of <https://github.com/bobsgame>
 
 discussion [here](https://discord.gg/FfDxFc4JuS)
 
